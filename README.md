@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **polishing my skills in full stack development**
 
-- 🌱 I’m currently learning **MySQl , Redux , MaterialUI**
+- 🌱 I’m currently learning **MySQL , Redux , MaterialUI**
 
 - 👨‍💻 All of my projects are available at [https://rahilsaiyed1711.github.io/portfolio/](https://rahilsaiyed1711.github.io/portfolio/)
 
